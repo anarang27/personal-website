@@ -328,8 +328,8 @@ main {
   transition: transform 0.3s var(--ease);
 }
 .logo-standalone-img.logo-lg {
-  width: 260px;
-  height: 260px;
+  width: 320px;
+  height: 320px;
 }
 .logo-standalone-img:hover {
   transform: translateY(-4px);
