@@ -329,9 +329,9 @@ main {
   transition: transform 0.3s var(--ease);
 }
 .logo-standalone-img.logo-md {
-  width: 320px;
-  height: 320px;
-  margin: -20px 0;
+  width: 260px;
+  height: 260px;
+  margin: 10px 0;
 }
 .logo-standalone-img.logo-lg {
   width: 390px;
