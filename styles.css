@@ -320,16 +320,16 @@ main {
 }
 
 .logo-standalone-img {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   border-radius: 20px;
   object-fit: contain;
   display: block;
   transition: transform 0.3s var(--ease);
 }
 .logo-standalone-img.logo-lg {
-  width: 200px;
-  height: 200px;
+  width: 260px;
+  height: 260px;
 }
 .logo-standalone-img:hover {
   transform: translateY(-4px);
